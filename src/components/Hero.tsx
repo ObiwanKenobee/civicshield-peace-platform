@@ -1,5 +1,5 @@
 
-import { Shield, HandShake, Users } from "lucide-react";
+import { Shield, Handshake, Users } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const Hero = () => {
@@ -23,7 +23,7 @@ const Hero = () => {
             <span>De-escalation before conflict</span>
           </div>
           <div className="flex items-center gap-2 text-gray-700">
-            <HandShake className="h-6 w-6 text-[#9b87f5]" />
+            <Handshake className="h-6 w-6 text-[#9b87f5]" />
             <span>Transparency at every step</span>
           </div>
           <div className="flex items-center gap-2 text-gray-700">
