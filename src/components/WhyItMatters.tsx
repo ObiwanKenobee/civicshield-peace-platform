@@ -1,5 +1,4 @@
-
-import { Users, Heart, BarChart4, GlobeCheck } from "lucide-react";
+import { Users, Heart, Globe } from "lucide-react";
 
 const WhyItMatters = () => {
   return (
@@ -35,7 +34,7 @@ const WhyItMatters = () => {
           
           <div className="bg-white p-8 rounded-lg shadow-md text-center">
             <div className="inline-flex items-center justify-center h-16 w-16 rounded-full bg-purple-100 mb-6">
-              <GlobeCheck className="h-8 w-8 text-[#9b87f5]" />
+              <Globe className="h-8 w-8 text-[#9b87f5]" />
             </div>
             <h3 className="text-xl font-semibold mb-3">Communities and police innovate together for peace</h3>
             <p className="text-gray-600">
